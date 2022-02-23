@@ -15,7 +15,7 @@ Run the calibration process with:
 ```
 ./build/extrinsic_calib ./data/config.ini
 ```
-where the file _config.ini_ holds all required information. For an example of input rawlog file, download [rgbd_calib.rawlog](https://drive.google.com/file/d/0B1QiP0O1FkhLekFDNkRYM2tRbFU/view?usp=sharing).
+where the file _config.ini_ holds all required information. For an example of input rawlog file, download: [rgbd_calib.rawlog](https://drive.google.com/file/d/1mTN7hovdiMku-l4dXY1NeBJ2Guek3If6/view?usp=sharing)
 
 ## References
 
